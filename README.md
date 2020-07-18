@@ -13,4 +13,4 @@
 
 
 
-<p> You can also contact me on 📬 shivanisingh260500@gmail.com <img src="/Icons/gmail.png" width=25 align="center">   </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=singh-shivani&show_icons=true&title_color=FAF0CA&icon_color=FAF0CA&text_color=fff&bg_color=080926">
