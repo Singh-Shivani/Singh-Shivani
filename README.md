@@ -3,8 +3,14 @@
 
 <i> Also, I take my energy from the preety good sounds produces by my larynx and I love doing that! 🎶
   
+  
+  
 <p align="center"><b><i>You can also find me on👀</p>
 
 <p align="center"><a href="https://www.linkedin.com/in/shivani-singh-86b640192/"><img src="/Icons/linkedin.png" width=50></a><a href="https://dev.to/singhshivani"><img src="/Icons/dev.png" width=50></a></p>
-<p>
-You can also contact me on 📬 shivanisingh260500@gmail.com <img src="/Icons/gmail.png" width=25 align="center">   </p>
+
+
+
+
+
+<p> You can also contact me on 📬 shivanisingh260500@gmail.com <img src="/Icons/gmail.png" width=25 align="center">   </p>
