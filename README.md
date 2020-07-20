@@ -7,7 +7,7 @@
   
 <p align="center"><b><i>You can also find me on👀</p>
 
-<p align="center"><a href="https://www.linkedin.com/in/shivani-singh-86b640192/"> <img src="https://img.icons8.com/nolan/64/linkedin.png"/></a><a href="https://dev.to/singhshivani"><img src="https://img.icons8.com/windows/64/000000/dev.png"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/shivani-singh-86b640192/"> <img src="https://img.icons8.com/nolan/60/linkedin.png"/></a><a href="https://dev.to/singhshivani"><img src="https://img.icons8.com/windows/60/000000/dev.png"/></a></p>
 
 
 
