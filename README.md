@@ -1,5 +1,5 @@
 # Hii! I'm Shivani
-<i>On my Github you'll find projects related to UX/UI, Flutter App Development project(mostly!). I am currently working on UX/UI.</i>
+<i>On my Github you'll find projects related to UX/UI, Flutter App Development (mostly!). I am currently working on UX/UI.</i>
 
 <i> Apart from these things, I've been intrigue by Biology and Psychology!
   
