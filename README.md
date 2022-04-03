@@ -1,4 +1,4 @@
-# Hii! I'm Shivani
+# Hii! I'm Shivani (She/her)
 <i>On my Github you'll find projects related to UX/UI, Flutter App Development (mostly!). I am currently working on UX/UI.</i>
 
 <i> Apart from these things, I've been intrigue by Biology and Psychology!
