@@ -3,7 +3,7 @@
 Backend Software Engineer | Java · Spring Boot · Kafka · MongoDB | Fintech
 
 4+ years building distributed systems in enterprise fintech at Piramal Capital.
-Currently exploring SDE-2 backend roles in Mumbai and Bangalore.
+
 
 ## Tech Stack
 - **Languages:** Java, Python
