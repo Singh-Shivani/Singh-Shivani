@@ -22,7 +22,6 @@ Currently exploring SDE-2 backend roles in Mumbai and Bangalore.
 ## Currently
 - 🔨 Building CMSTP — Change Management and Service Transition Platform
 - 📚 Completing Claude: Code in Action – Anthropic
-- 💡 Preparing for SDE-2 interviews — DSA + LLD + HLD
 
 ## Connect
 - 💼 LinkedIn: [https://www.linkedin.com/in/shivani-p-singh/]
