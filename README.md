@@ -1,9 +1,33 @@
-# Hii! I'm Shivani (She/her)
-<i>On my Github you'll find projects related to UX/UI, Flutter App Development (mostly!). I am currently working on UX/UI.</i>
+# Hi, I'm Shivani Singh 👋
 
-<i> Apart from these things, I've been intrigue by Biology and Psychology!
-  
-  
+Backend Software Engineer | Java · Spring Boot · Kafka · MongoDB | Fintech
+
+4+ years building distributed systems in enterprise fintech at Piramal Capital.
+Currently exploring SDE-2 backend roles in Mumbai and Bangalore.
+
+## Tech Stack
+- **Languages:** Java, Python
+- **Frameworks:** Spring Boot, FastAPI
+- **Databases:** MongoDB, PostgreSQL
+- **Messaging:** Apache Kafka
+- **Cloud & DevOps:** AWS (EC2, S3), Docker, Jenkins, CI/CD
+- **Observability:** ELK Stack, Grafana, Google Apigee
+
+## What I've shipped
+- Real-time disbursement system — TAT from 5 hours to 10 seconds
+- IAM platform — 60+ enterprise application integrations
+- RBAC engine — 15,000+ users
+- Kafka data platform — 15,000+ events, Rs. 45L/quarter saved
+
+## Currently
+- 🔨 Building CMSTP — Change Management and Service Transition Platform
+- 📚 Completing Claude: Code in Action – Anthropic
+- 💡 Preparing for SDE-2 interviews — DSA + LLD + HLD
+
+## Connect
+- 💼 LinkedIn: [https://www.linkedin.com/in/shivani-p-singh/]
+- 📧 shivanisingh260500@gmail.com
+
 <p align="center"><b><i>You can also find me on👀</p>
 
 <p align="center"><a href="https://www.linkedin.com/in/shivani-p-singh/"> <img src="https://img.icons8.com/nolan/54/linkedin.png" width = 46/></a>&nbsp;&nbsp;
