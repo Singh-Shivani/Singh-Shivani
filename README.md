@@ -15,7 +15,7 @@ Currently exploring SDE-2 backend roles in Mumbai and Bangalore.
 
 ## What I've shipped
 - Real-time disbursement system — TAT from 5 hours to 10 seconds
-- IAM platform — 60+ enterprise application integrations
+- IDAM platform — 60+ enterprise application integrations
 - RBAC engine — 15,000+ users
 - Kafka data platform — 15,000+ events, Rs. 45L/quarter saved
 
